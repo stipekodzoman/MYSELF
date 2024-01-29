@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Klaus</h1>
-<h3 align="center">A full-stack developer from germany</h3>
+<h1 align="center">Hi 👋, I'm Stipe</h1>
+<h3 align="center">A senior backend developer from croatia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaus237192&label=Profile%20views&color=0e75b6&style=flat" alt="klaus237192" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **cyber security**
 
-- 📫 How to reach me **klaus237192@gmial.com**
+- 📫 How to reach me **99master.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
